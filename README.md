@@ -12,30 +12,13 @@ infrastructure, and helping others grow in tech. 🚀
 
 📧 **Email Me:** [rajeshprajapat6375@gmail.com](mailto:rajeshprajapat6375@gmail.com)
 for **collaborations, projects, mentorship or anything tech!** 😊
-
 ---
 
 ### 🔭 I'm currently working on
 **DocChatAI** 🤖
 
-### 🌱 I'm currently learning
-**Advanced Cloud Architecture & Cloud Security** ☁️🔐
-
-### 🎓 Community & Leadership
-- 🎓 **Microsoft Student Ambassador**
-- 🔐 **Microsoft Entra Security Advisor**
-- 🌍 Passionate about sharing knowledge and helping the tech community
-
 ### 🤔 I'm looking for help with
 **Cloud & DevOps Projects | Open Source | Cloud Security**
-
-### 💬 Ask me about
-**☁️ Cloud | ⚙️ DevOps | 🔐 Microsoft Entra | 🔄 Kafka | 🐧 Linux |
-🐳 Docker | ☸️ Kubernetes | 🚀 CI/CD | 🛡️ Cloud Security**
-
-
-### 😄 Pronouns
-**Rajesh**
 
 
 ## 🌐 Socials:
