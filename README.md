@@ -1,16 +1,42 @@
 # 💫 Hi 👋, I'm Rajesh Prajapat
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **rajeshprajapat6375@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+###  📊 Data Analyst | ☁️ Cloud Engineer  | 🔐 Cloud Security
+### 🎓 Microsoft Student Ambassador | 🔐 Microsoft Entra Security Advisor
 
-- 🔭 **I’m currently working on:** DocChatAi
-- 🌱 **I’m currently learning:** Advanced Cloud Architecture
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Cloud & DevOps projects
-- 💬 **Ask me about:** **Cloud ☁️ | DevOps ⚙️ | Kafka 🔄 | Linux 🐧 | Docker 🐳 | Kubernetes ☸️ | CI/CD 🚀**
-- 📫 **How to reach me:** rajeshprajapat6375@gmail.com
-- 😄 **Pronouns:** Rajesh
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+I'm a passionate **Cloud & DevOps Engineer from India 🇮🇳**, focused on
+**Cloud Infrastructure, DevOps, Cybersecurity, Microsoft Entra, Kafka &
+Automation**.
+
+I love learning new technologies, building practical solutions, automating
+infrastructure, and helping others grow in tech. 🚀
+
+📧 **Email Me:** [rajeshprajapat6375@gmail.com](mailto:rajeshprajapat6375@gmail.com)
+for **collaborations, projects, mentorship or anything tech!** 😊
+
+---
+
+### 🔭 I'm currently working on
+**DocChatAI** 🤖
+
+### 🌱 I'm currently learning
+**Advanced Cloud Architecture & Cloud Security** ☁️🔐
+
+### 🎓 Community & Leadership
+- 🎓 **Microsoft Student Ambassador**
+- 🔐 **Microsoft Entra Security Advisor**
+- 🌍 Passionate about sharing knowledge and helping the tech community
+
+### 🤔 I'm looking for help with
+**Cloud & DevOps Projects | Open Source | Cloud Security**
+
+### 💬 Ask me about
+**☁️ Cloud | ⚙️ DevOps | 🔐 Microsoft Entra | 🔄 Kafka | 🐧 Linux |
+🐳 Docker | ☸️ Kubernetes | 🚀 CI/CD | 🛡️ Cloud Security**
+
+
+### 😄 Pronouns
+**Rajesh**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshprajapat-nitro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshprajapat6375@gmail.com) 
