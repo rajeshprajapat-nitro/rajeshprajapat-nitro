@@ -11,10 +11,8 @@ infrastructure, and helping others grow in tech. 🚀
 
 ### 🔭 I'm currently working on
 **DocChatAI** 🤖
-
 ### 🤔 I'm looking for help with
 **Cloud & DevOps Projects | Open Source | Cloud Security**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshprajapat-nitro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshprajapat6375@gmail.com) 
@@ -41,7 +39,6 @@ infrastructure, and helping others grow in tech. 🚀
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,python,azure,github,figma,vscode,linux" />
 </p>
-
 ---
 
 ### 📣 Let's Connect!
