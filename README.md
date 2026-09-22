@@ -7,8 +7,6 @@
 I love learning new technologies, building practical solutions, automating
 infrastructure, and helping others grow in tech. 🚀
 
-📧 **Email Me:** [rajeshprajapat6375@gmail.com](mailto:rajeshprajapat6375@gmail.com)
-for **collaborations, projects, mentorship or anything tech!** 😊
 ---
 
 ### 🔭 I'm currently working on
