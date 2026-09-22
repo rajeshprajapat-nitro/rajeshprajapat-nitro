@@ -69,10 +69,10 @@ Because honestly,
 
 <div align="center">
 
-### ☁️ Cloud • ⚙️ DevOps • 🔄 Kafka • 🚀 Automation
-
 **Let's Connect • Let's Learn • Let's Build Together!** 🔥
 
 </div>
 
-**Made with ❤️ by Rajesh Prajapat | Powered by ⚙️ Futuristic Vision**
+<div align="center">
+Made with ❤️ by Rajesh Prajapat | Powered by ⚙️ Futuristic Vision
+</div>
