@@ -3,9 +3,6 @@
 ###  📊 Data Analyst | ☁️ Cloud Engineer  | 🔐 Cloud Security
 ### 🎓 Microsoft Student Ambassador | 🔐 Microsoft Entra Security Advisor
 
-I'm a passionate **Cloud & DevOps Engineer from India 🇮🇳**, focused on
-**Cloud Infrastructure, DevOps, Cybersecurity, Microsoft Entra, Kafka &
-Automation**.
 
 I love learning new technologies, building practical solutions, automating
 infrastructure, and helping others grow in tech. 🚀
