@@ -48,12 +48,14 @@ for **collaborations, projects, mentorship or anything tech!** 😊
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+- 📊 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+  - 🏅 [Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/RajeshPrajapat/5EE1BE0CC4BE6F96?sharingId=C2C28276D6380417)
+
 ### 📣 Let's Connect!
 
 📩 And if you're reading this — **Let's build, learn & grow together!** 🚀
 
 → 𝐃𝐌 me for **collaborations, DevOps discussions or tech support**  
-→ Follow for **Cloud, DevOps, Kafka & Automation** insights  
 → Always happy to connect with **developers, engineers & tech enthusiasts**
 
 Because honestly,
