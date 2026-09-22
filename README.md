@@ -41,3 +41,42 @@ Email Me 👉 ✉️ **rajeshprajapat6375@gmail.com** For Collaboration/Project 
 [![](https://komarev.com/ghpvc/?username=rajeshprajapat-nitro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 📣 Let's Connect!
+
+📩 And if you're reading this — **Let's build, learn & grow together!** 🚀
+
+→ 𝐃𝐌 me for **collaborations, DevOps discussions or tech support**  
+→ Follow for **Cloud, DevOps, Kafka & Automation** insights  
+→ Always happy to connect with **developers, engineers & tech enthusiasts**
+
+Because honestly,
+
+> **You don't have to know everything.  
+> You just need to keep learning. ☁️⚙️🚀**
+
+<p align="center">
+  <a href="mailto:rajeshprajapat6375@gmail.com">
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Gmail" alt="Gmail"/>
+  </a>
+
+  <a href="https://github.com/rajeshprajapat-nitro">
+    <img src="https://img.icons8.com/bubbles/50/000000/github.png" title="GitHub" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rajeshprajapat-nitro/">
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ☁️ Cloud • ⚙️ DevOps • 🔄 Kafka • 🚀 Automation
+
+**Let's Connect • Let's Learn • Let's Build Together!** 🔥
+
+</div>
+
+**Made with ❤️ by Rajesh Prajapat | Powered by ⚙️ Futuristic Vision**
