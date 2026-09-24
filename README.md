@@ -1,4 +1,4 @@
-## Hi 👋, I'm Rajesh Prajapat
+## Hi👋, I'm Rajesh Prajapat
 
 #### 🤖 AI/ML Engineer | 📊 Data Science | Data Analyst | ⚙️ DevOps
 #### 🎓 Microsoft Student Ambassador | 🔐 Microsoft Entra Security Advisor
