@@ -10,7 +10,7 @@ infrastructure, and helping others grow in tech. 🚀
 ---
 
 #### 🔭 I'm currently working on
-*DocChatAI* 🤖
+DocChatAI 🤖
 #### 🤔 I'm looking for help with
 **Cloud & DevOps Projects | Open Source | Cloud Security**
 
