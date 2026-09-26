@@ -4,7 +4,7 @@
 #### 🎓 Microsoft Student Ambassador | 🔐 Microsoft Entra Security Advisor
 
 
-I love learning new technologies, building practical solutions, automating
+I love learning new technologies, building practical solutions,automating
 infrastructure, and helping others grow in tech.  🚀
 
 ---
