@@ -23,6 +23,10 @@ Cloud & DevOps Projects | Open Source | Cloud Security
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<p align="center">
+  <img src="https://github.com/Selvaganesh19/Selvaganesh19/blob/output/github-snake.svg" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
