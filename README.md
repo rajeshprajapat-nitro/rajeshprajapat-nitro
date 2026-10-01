@@ -34,17 +34,18 @@ Cloud & DevOps Projects | Open Source | Cloud Security
 
 <h3 align="left">💡 Skills & Current Learnings</h3>
 
-<ul align="left">
-  <li>🤖 <strong>Machine Learning & AI</strong><br>Core concepts, model training, and real-world applications.</li><br>
-
-  <li>🔎 <strong>RAG</strong><br>Learning retrieval pipelines, embeddings, vector databases, and LLM integration using LangChain and Hugging Face.</li><br>
-
-  <li>☁️ <strong>Cloud Computing (Azure.OpenAI)</strong><br>Deployments, serverless functions, and storage solutions.</li><br>
-
-  <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
-
-  <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basics.</li>
+ <ul align="left"> 
+  <li>🐍 <strong>Python</strong><br>Programming, problem-solving, and application development.</li><br> 
+ 
+  <li>💻 <strong>Web Development</strong><br>HTML, CSS, JavaScript, and responsive web development.</li><br> 
+ 
+  <li>🗄️ <strong>Database</strong><br>SQL, database management, and data handling.</li><br> 
+ 
+  <li>🤖 <strong>Machine Learning & AI</strong><br>Learning ML concepts, model training, and AI applications.</li><br> 
+ 
+  <li>🛠️ <strong>Tools & Technologies</strong><br>Git, GitHub, VS Code, and basic deployment practices.</li> 
 </ul>
+
 
 
 ---
