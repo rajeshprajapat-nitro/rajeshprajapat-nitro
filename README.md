@@ -24,7 +24,7 @@ Cloud & DevOps Projects | Open Source | Cloud Security
 </div>
 
 <p align="center">
-  <img src="https://github.com/Selvaganesh19/Selvaganesh19/blob/output/github-snake.svg" />
+  <img src="https://github.com/rajeshprajapat-nitro/rajeshprajapat-nitro/blob/output/github-snake.svg" />
 </p>
 
 
