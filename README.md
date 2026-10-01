@@ -57,10 +57,6 @@ infrastructure, and helping others grow in tech. 🚀
 
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ### 📣 Let's Connect!
 
