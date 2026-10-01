@@ -16,6 +16,7 @@ Cloud & DevOps Projects | Open Source | Cloud Security
 
 
 <!-- Snake Game Repo View -->
+### 🐍 GitHub Snake
 
 <p align="center">
   <img src="https://github.com/rajeshprajapat-nitro/rajeshprajapat-nitro/blob/output/github-snake.svg" />
