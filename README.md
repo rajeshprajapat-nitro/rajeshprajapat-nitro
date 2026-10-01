@@ -52,7 +52,7 @@ infrastructure, and helping others grow in tech. 🚀
  
   <li>🤖 <strong>Machine Learning & AI</strong><br>Learning ML concepts, model training, and AI applications.</li><br> 
  
-  <li>🛠️ <strong>Tools & Technologies</strong><br>Git, GitHub, VS Code, and basic deployment practices.</li> 
+  <li>🛠️ <strong>Tools & Technologies</strong><br>Git, GitHub, VS Code, and basic deployment.</li> 
 </ul>
 
 ---
