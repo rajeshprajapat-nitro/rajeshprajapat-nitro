@@ -1,18 +1,15 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 𝗥𝗮𝗷𝗲𝘀𝗵 ✨ 
 
-#### 🤖 AI/ML | 📊 Data Science | Data Analyst | ⚙️ Azure
-#### 🎓 Microsoft Student Ambassador | 🔐 Microsoft Entra Security Advisor
-
 
 <table>
   <tr>
     <td style="vertical-align: top; width: 70%;">
-      <h3>🎨 I’m a passionate <strong>Front-End Developer</strong></h3>
-      <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p>
-      <h3>🤖 Currently learning <strong>AI & ML</strong></h3>
-      <p>Exploring Artificial Intelligence to enhance digital experiences.</p>
-      <h3>🌐 Open to <strong>collaborations</strong></h3>
-      <p>Excited to work on Website Development and creative projects.</p>
+      <h3>🤖 I’m passionate about <strong>AI/ML</strong></h3>
+      <p>Exploring Machine Learning, Artificial Intelligence, and real-world applications.</p>
+      <h3>📊 Interested in <strong>Data Science & Data Analytics</strong></h3>
+      <p>Working with data, extracting insights, and building data-driven solutions.</p>
+      <h3>⚙️ Exploring <strong>Azure & Cloud Technologies</strong></h3>
+      <p>Learning Azure, cloud computing, and AI-powered cloud solutions.</p>
     </td>
     <td style="text-align: right; vertical-align: top;">
       <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300" alt="Developer GIF"/> 
