@@ -55,6 +55,19 @@ infrastructure, and helping others grow in tech. 🚀
   <li>🛠️ <strong>Tools & Technologies</strong><br>Git, GitHub, VS Code, and basic deployment practices.</li> 
 </ul>
 
+---
+
+<h2 align="left">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20important%20thing%20is%20to%20never%20stop%20questioning.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 ---
 
@@ -82,19 +95,6 @@ Because honestly,
   <a href="https://www.linkedin.com/in/rajeshprajapat-nitro/">
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"/>
   </a>
-</p>
-
-
-<h2 align="left">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20important%20thing%20is%20to%20never%20stop%20questioning.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
 
