@@ -4,6 +4,23 @@
 #### 🎓 Microsoft Student Ambassador | 🔐 Microsoft Entra Security Advisor
 
 
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 70%;">
+      <h3>🎨 I’m a passionate <strong>Front-End Developer</strong></h3>
+      <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p>
+      <h3>🤖 Currently learning <strong>AI & ML</strong></h3>
+      <p>Exploring Artificial Intelligence to enhance digital experiences.</p>
+      <h3>🌐 Open to <strong>collaborations</strong></h3>
+      <p>Excited to work on Website Development and creative projects.</p>
+    </td>
+    <td style="text-align: right; vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300" alt="Developer GIF"/> 
+    </td>
+  </tr>
+</table>
+
+
 I love learning new technologies, building practical solutions, automating
 infrastructure, and helping others grow in tech.                🚀
 
