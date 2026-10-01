@@ -19,10 +19,6 @@ Cloud & DevOps Projects | Open Source | Cloud Security
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 <p align="center">
   <img src="https://github.com/rajeshprajapat-nitro/rajeshprajapat-nitro/blob/output/github-snake.svg" />
 </p>
