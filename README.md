@@ -22,6 +22,33 @@ Cloud & DevOps Projects | Open Source | Cloud Security
   <img src="https://github.com/rajeshprajapat-nitro/rajeshprajapat-nitro/blob/output/github-snake.svg" />
 </p>
 
+---
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">💡 Skills & Current Learnings</h3>
+
+<ul align="left">
+  <li>🤖 <strong>Machine Learning & AI</strong><br>Core concepts, model training, and real-world applications.</li><br>
+
+  <li>🔎 <strong>RAG</strong><br>Learning retrieval pipelines, embeddings, vector databases, and LLM integration using LangChain and Hugging Face.</li><br>
+
+  <li>☁️ <strong>Cloud Computing (Azure.OpenAI)</strong><br>Deployments, serverless functions, and storage solutions.</li><br>
+
+  <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
+
+  <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basics.</li>
+</ul>
+
+
+---
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
