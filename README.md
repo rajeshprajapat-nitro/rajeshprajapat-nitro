@@ -14,8 +14,6 @@ nothing🤖
 #### 🤔 I'm looking for help with
 Cloud & DevOps Projects | Open Source | Cloud Security
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshprajapat-nitro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshprajapat6375@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
@@ -27,13 +25,6 @@ Cloud & DevOps Projects | Open Source | Cloud Security
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
----
-### 🧰 Toolbox
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,python,azure,github,figma,vscode,linux" />
-</p>
 ---
 
 ### 📣 Let's Connect!
