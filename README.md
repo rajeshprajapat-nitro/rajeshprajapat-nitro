@@ -19,7 +19,7 @@
 
 
 I love learning new technologies, building practical solutions, automating
-infrastructure, and helping others grow in tech.                🚀
+infrastructure, and helping others grow in tech. 🚀
 
 ---
 
@@ -56,10 +56,7 @@ infrastructure, and helping others grow in tech.                🚀
 </ul>
 
 
-
 ---
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
