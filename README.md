@@ -1,4 +1,4 @@
-### Hi👋, I'm Rajesh Prajapat
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 Rajesh ✨ 
 
 #### 🤖 AI/ML | 📊 Data Science | Data Analyst | ⚙️ Azure
 #### 🎓 Microsoft Student Ambassador | 🔐 Microsoft Entra Security Advisor
