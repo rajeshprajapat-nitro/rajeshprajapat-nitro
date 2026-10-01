@@ -57,6 +57,8 @@ infrastructure, and helping others grow in tech. 🚀
 
 ---
 
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+
 <h2 align="left">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
