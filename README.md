@@ -1,6 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 𝗥𝗮𝗷𝗲𝘀𝗵 ✨ 
 
-
 <table>
   <tr>
     <td style="vertical-align: top; width: 70%;">
