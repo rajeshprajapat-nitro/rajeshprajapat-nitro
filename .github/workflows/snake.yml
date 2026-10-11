@@ -26,5 +26,6 @@ jobs:
         with:
           build_dir: dist
           target_branch: output
+          commit_message: "Update GitHub Snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
