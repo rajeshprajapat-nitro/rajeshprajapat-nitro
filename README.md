@@ -23,11 +23,11 @@ infrastructure, and helping others grow in tech. 🚀
 ---
 
 
-<!-- Snake Game Repo View -->
-### 🐍 GitHub Snake
+<!-- GitHub Snake Animation -->
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/rajeshprajapat-nitro/rajeshprajapat-nitro/blob/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rajeshprajapat-nitro/rajeshprajapat-nitro/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
